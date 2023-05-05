@@ -1,4 +1,4 @@
-const canvas = document.createElement("canvas");
+const canvas = document.getElementById("phax_canvas");
 canvas.style.border = "3px solid black";
 const ctx = canvas.getContext("2d");
 
